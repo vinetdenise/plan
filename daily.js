@@ -19,3 +19,4 @@ console.log('day_18');
 console.log('day_19');
 console.log('day_20');
 console.log('day_21');
+console.log('day_22');
